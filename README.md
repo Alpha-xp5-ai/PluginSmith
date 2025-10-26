@@ -2,8 +2,8 @@
 
 **Version:** 5.5  
 **Author:** AlphaCore  
-**Website:** https://www.alphaxp.me  
-**Fab Listing:** https://www.fab.com/portal/listings/  
+**Website:** https://support.alphaxp.me  
+**Fab Listing:** [https://www.fab.com/portal/listings/](https://www.fab.com/portal/listings/bb1a7ad5-934f-42a8-b133-e4591edfda49/preview)  
 **Supported Engines:** Unreal Engine 4.27 – 5.5  
 **Supported Platforms:** Windows (Win64)
 
