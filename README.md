@@ -4,7 +4,7 @@
 **Author:** AlphaCore  
 **Website:** https://support.alphaxp.me  
 **Fab Listing:** [https://www.fab.com/portal/listings/](https://www.fab.com/portal/listings/bb1a7ad5-934f-42a8-b133-e4591edfda49/preview)  
-**Supported Engines:** Unreal Engine 4.27 – 5.5  
+**Supported Engines:** Unreal Engine 4.27 – 5.6  
 **Supported Platforms:** Windows (Win64)
 
 ---
@@ -17,7 +17,7 @@ PluginSmith can package plugins or entire UE projects for different engine versi
 ---
 
 ## Features
-- Multi-engine packaging support (UE 4.27 → 5.5)
+- Multi-engine packaging support (UE 4.27 → 5.6)
 - Automatic Fab-compliant `.zip` generation
 - Built-in `.uplugin` validation for engine version, documentation, and platform lists
 - Logging system with readable text logs in `Saved/Logs/PluginSmith.log`
@@ -30,7 +30,7 @@ PluginSmith can package plugins or entire UE projects for different engine versi
 
 ## Installation and Setup
 1. Copy the `PluginSmith` folder into your project’s `Plugins` directory.
-2. Open your Unreal Engine project in any supported version (4.27 – 5.5).
+2. Open your Unreal Engine project in any supported version (4.27 – 5.6).
 3. Go to `Edit → Plugins`, enable **PluginSmith – Multi-Engine Plugin Builder**, then restart the editor.
 4. Once loaded, PluginSmith adds a “PluginSmith” section under **Tools** in the main menu.
 
