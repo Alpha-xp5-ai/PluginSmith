@@ -1,6 +1,6 @@
 # PluginSmith – Multi-Engine Plugin Builder
 
-**Version:** 5.5  
+**Version:** 5.6  
 **Author:** AlphaCore  
 **Website:** https://support.alphaxp.me  
 **Fab Listing:** [https://www.fab.com/portal/listings/](https://www.fab.com/portal/listings/bb1a7ad5-934f-42a8-b133-e4591edfda49/preview)  
